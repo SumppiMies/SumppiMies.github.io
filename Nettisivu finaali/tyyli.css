@@ -1,0 +1,96 @@
+  body {
+    color: white;
+    background-color: tan;
+    background-image: url("7_days_to_die_002.jpg");
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+  @media screen and (max-width: 800px) {
+    body {
+      background-color: black;
+      background-image: none;
+  }
+  }
+  @media screen and (max-width: 900px) {
+    div.jumbotron {
+      padding-bottom: 700px;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    #isojumbo {
+      padding-bottom: 900px;
+    }
+  }
+  a.title {
+    font-size: 110px;
+    text-align: center;
+    font-weight: 1000;
+    color: red;
+  }
+  div.jumbotron {
+    background-color: darkcyan;
+    height: 450px;
+  }
+  p.intro {
+    font-size: 30px;
+    text-align: center;
+  }
+  a.nav-link {
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+    color: darkred;
+  }
+  h1.ex {
+    text-align: center;
+    padding-top: 40px;
+  }
+  p.pex {
+    padding-top: 40px;
+    font-size: 20px ;
+  }
+  audio { display:none;}
+  footer {
+    color: burlywood;
+    font-size: 80px;
+    text-align: center;
+  }
+
+
+
+  div.col-sm-2 {
+    font-size: 20px;
+  }
+  a.contact {
+    font-size: 20px;
+    color: white;
+    text-decoration: underline; 
+  }
+  #jum {
+    background-color: unset;
+    height: 150px;
+  }
+  #lataa{
+    color: darkred;
+  }
+  #musta{
+    font-size: 20px;
+    padding-top: 30px;
+  }
+  #s1{
+    height: 400px;
+    padding-top: 20px;
+  }
+  #eikuvaa{
+    background-image: none;
+    background-color: black;
+  }
+  #paha{
+  font-size: 10px;
+  }
+  #hmm{
+    background-image:url("hmm.gif") ;
+    }
